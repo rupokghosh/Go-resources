@@ -7,7 +7,7 @@ This repository contains a curated collection of resources for learning Go.
 - [Official Documentation](#official-documentation)
 - [Courses](#courses)
 - [Exercises](#exercises)
-- [YouTube Channels](#youtube-channels)
+- [YouTube](#youtube)
 - [Books](#books)
 - [Articles](#articles)
 - [Cheat Sheets](#cheat-sheets)
@@ -32,10 +32,11 @@ This repository contains a curated collection of resources for learning Go.
 - [Gophercises](https://gophercises.com/)
 - [Exercism Go Track](https://exercism.org/tracks/go)
 
-## YouTube Channels
+## YouTube
 
-- [Golang by Google Developers](https://www.youtube.com/playlist?list=PLSak_q1UXfPrIiqSHDl5t5nEN69KxFIy-)
-- [Tech With Tim - Go Tutorials](https://www.youtube.com/c/TechWithTim)
+- [Freecodecamp full course](https://www.youtube.com/watch?v=un6ZyFkqFKo&ab_channel=freeCodeCamp.org)
+- [Freecodecamp Beginners course](https://www.youtube.com/watch?v=akosxcqJorU&t=129s&ab_channel=freeCodeCamp.org)
+- [Learn Go fast (crash course)](https://www.youtube.com/watch?v=8uiZC0l4Ajw&t=158s&ab_channel=AlexMux)
 
 ## Books
 
