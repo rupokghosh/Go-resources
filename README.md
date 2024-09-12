@@ -6,6 +6,7 @@ This repository contains a curated collection of resources for learning Go.
 
 - [Official Documentation](#official-documentation)
 - [Courses](#courses)
+- [Exercises](#exercises)
 - [YouTube Channels](#youtube-channels)
 - [Books](#books)
 - [Articles](#articles)
@@ -21,7 +22,14 @@ This repository contains a curated collection of resources for learning Go.
 ## Courses
 
 - [The Go Tour](https://tour.golang.org/)
+- [Effective Go](https://go.dev/doc/effective_go)
 - [Go by Example](https://gobyexample.com/)
+- [Go in one evening](https://threedots.tech/go-in-one-evening/)
+- [Learn go with tests](https://quii.gitbook.io/learn-go-with-tests/go-fundamentals/hello-world)
+  
+## Exercises
+
+- [Gophercises](https://gophercises.com/)
 - [Exercism Go Track](https://exercism.org/tracks/go)
 
 ## YouTube Channels
@@ -33,6 +41,8 @@ This repository contains a curated collection of resources for learning Go.
 
 - *The Go Programming Language* by Alan A. A. Donovan & Brian W. Kernighan
 - *Concurrency in Go* by Katherine Cox-Buday
+- [Let's Go!](https://lets-go.alexedwards.net/)
+- [Learning Go](https://www.amazon.ca/Learning-Go-Idiomatic-Real-World-Programming/dp/1492077216)
 
 ## Cheat Sheets
 
@@ -40,7 +50,8 @@ This repository contains a curated collection of resources for learning Go.
 
 ## Articles
 
+
 ## Reddit Threads
-- [Reddit Threads](https://www.reddit.com/r/golang/comments/1465pwq/fastest_way_to_learn_golang/)
+- [Fastest way to learn Go](https://www.reddit.com/r/golang/comments/1465pwq/fastest_way_to_learn_golang/)
 ---
 
