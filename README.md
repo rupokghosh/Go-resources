@@ -1,6 +1,6 @@
 # Go Learning Resources
 
-This repository contains a curated collection of resources to learn Go. 
+This repository contains a curated collection of resources for learning Go. 
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@ This repository contains a curated collection of resources to learn Go.
 - [Books](#books)
 - [Articles](#articles)
 - [Cheat Sheets](#cheat-sheets)
+- [Reddit Threads](#reddit-threads)
 
 ---
 
@@ -39,6 +40,7 @@ This repository contains a curated collection of resources to learn Go.
 
 ## Articles
 
-
+## Reddit Threads
+- [Reddit Threads](https://www.reddit.com/r/golang/comments/1465pwq/fastest_way_to_learn_golang/)
 ---
 
